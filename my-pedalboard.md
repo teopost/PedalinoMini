@@ -4,7 +4,7 @@ Materiale
 * LCD: https://www.amazon.it/gp/product/B07D9G11DZ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 * Pulsanti: https://www.amazon.it/gp/product/B07BTB4K9Y/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
 * Resistenze da 220: https://www.amazon.it/gp/product/B07KCJ1GTF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
-* Connettore per alimentatore 9v: https://www.amazon.it/gp/product/B01N3679B8/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+* Femmina per alimentatore 9v: https://www.amazon.it/gp/product/B01N3679B8/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
 * Femmina DIN 5 pin midi: https://www.amazon.it/gp/product/B076HJ7Y59/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 * Convertitore Step down : https://www.amazon.it/gp/product/B0823P6PW6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 * Trasferelli: https://www.amazon.it/gp/product/B00C6Z5R0U/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
